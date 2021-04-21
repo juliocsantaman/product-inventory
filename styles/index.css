@@ -1,0 +1,15 @@
+img {
+  height: 500px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+  color: #000000;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.7);
+}
